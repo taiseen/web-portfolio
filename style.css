@@ -53,6 +53,7 @@ section{
 
 .metaDoc{
     text-align: justify;
+    line-height: 2;
 }
 
 .dream-area{
@@ -62,7 +63,7 @@ section{
 }
 
 #left-aline{
-    align-items: left;
+
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
